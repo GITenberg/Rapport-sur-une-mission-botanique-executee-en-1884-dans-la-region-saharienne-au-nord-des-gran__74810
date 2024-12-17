@@ -1,0 +1,43 @@
+_repo: Rapport-sur-une-mission-botanique-executee-en-1884-dans-la-region-saharienne-au-nord-des-gran__74810
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Doumet-Adanson, Napoléon
+    aliases:
+    - Doûmet-Adanson, Napoléon
+    - Doumet-Adanson, Napoleon
+    birthdate: 1834
+    deathdate: 1897
+    gutenberg_agent_id: '57660'
+    url: http://www.gutenberg.org/2009/agents/57660
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Napol%C3%A9on_Doumet-Adanson
+    - https://fr.wikipedia.org/wiki/Napol%C3%A9on_Doumet-Adanson
+description: ''
+gutenberg_issued: '2024-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74810'
+  lccn: 06009342
+language: fr
+pgterms:marc904: https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001103699935
+pgterms:marc905: 20241119082025doumetadan
+pgterms:marc906: '1888'
+pgterms:marc907: FR
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by the Bibliothèque municipale de Lyon/Numelyo)
+publication_note: '  $aParis :$bImprimerie nationale, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Exploration scientifique de la Tunisie. Botanique.
+subjects:
+- !lcsh 'Tunisia -- Description and travel'
+- !lcsh 'Plants -- Tunisia'
+- !lcsh 'Scientific expeditions -- Tunisia'
+- !lcc 'DT'
+- !lcc 'QK'
+- GITenberg
+title: Rapport sur une mission botanique exécutée en 1884 dans la région saharienne,
+  au nord des grands chotts et dans les îles de la côte orientale de la Tunisie
+url: http://www.gutenberg.org/ebooks/74810
