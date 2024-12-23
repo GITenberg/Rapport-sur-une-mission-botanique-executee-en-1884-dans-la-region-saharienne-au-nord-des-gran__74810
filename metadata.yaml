@@ -1,5 +1,8 @@
 _repo: Rapport-sur-une-mission-botanique-executee-en-1884-dans-la-region-saharienne-au-nord-des-gran__74810
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74810-h/images/cover.jpg
 creator:
   author:
     agent_name: Doumet-Adanson, Napoléon
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Napol%C3%A9on_Doumet-Adanson
     - https://fr.wikipedia.org/wiki/Napol%C3%A9on_Doumet-Adanson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74810#Rapport-sur-une-mission-botanique-executee-en-1884-dans-la-region-saharienne-au-nord-des-gran_
 gutenberg_issued: '2024-11-28'
 gutenberg_type: Text
 identifiers:
